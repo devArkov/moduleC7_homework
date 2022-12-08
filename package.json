@@ -1,0 +1,23 @@
+{
+  "name": "modulec7_homework",
+  "version": "1.0.0",
+  "description": "tests with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devArkov/moduleC7_homework.git"
+  },
+  "keywords": [],
+  "author": "devArkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devArkov/moduleC7_homework/issues"
+  },
+  "homepage": "https://github.com/devArkov/moduleC7_homework#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
